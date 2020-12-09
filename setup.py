@@ -1,37 +1,22 @@
 import setuptools
 
-with open("README.md","r") as fh
+with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-      name = "Lord_Shiva",
-      version="0.0.1",
-      author="NETHRAN KUMARASAMY",
-      author_email="ramanathank18@gmail.com",
-      long_description=long_description,
-      long_description_content_type="text/markdown",
-      url = "https://github.com/nethra-coding/Lord_Shiva",
-      packages = setuptools.find_packages(),
-      classifiers=[
-          "programing language :: python :: 3",
-          "operating system :: os Indipendent",
-      ],
-      python_requires='>=3.6',
-
+    name="LordShiva", 
+    version="0.0.8",
+    author="Nethran Kumarasamy",
+    author_email="ramanathank18@gmail.com",
+    description="IT is the package.educational purpose",
+    long_description=long_description,
+    long_description_content_type="text/markdown",
+    url="https://github.com/nethra-coding/lord_shiva",
+    packages=setuptools.find_packages(),
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+    ],
+    python_requires='>=3.6',
 )
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- )
