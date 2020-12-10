@@ -3,4 +3,4 @@
 
 
           THANK YOU .
-                      image :: https://github.com/nethra-coding/Lord_Shiva/blob/main/Screenshot%20(829).png
+                     :: image :: https://github.com/nethra-coding/Lord_Shiva/blob/main/Screenshot%20(829).png
