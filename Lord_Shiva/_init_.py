@@ -1,1 +1,1 @@
-from Lord_Shiva.shivan import *
+from lord_shiva.shivan import *

@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="LordShiva", 
-    version="0.0.8",
+    name="Lord-Shiva", 
+    version="0.1.6",
     author="Nethran Kumarasamy",
     author_email="ramanathank18@gmail.com",
     description="IT is the package.educational purpose",
