@@ -8,8 +8,8 @@
 
 <a target="_blank" href="https://www.python.org/downloads/" title="Python version"><img src="https://img.shields.io/badge/python-%3E=_3.6-green.svg"></a>
 <a target="_blank"
-href="https://github.com/nethra-coding/Lord_Shiva.git"
-title="GITHUB"><img src="https://img.shields.io/badge/github-github-orange"></a>
+href="https://nethra-coding.github.io/lord-shiva_module/"
+title="GITHUB website"><img src="https://img.shields.io/badge/github-github-orange"></a>
 
 <br>
 
