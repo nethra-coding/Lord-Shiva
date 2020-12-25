@@ -22,19 +22,22 @@ title="GITHUB"><img src="https://img.shields.io/badge/github-github-orange"></a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-##Details:
+<p align="center">
+     
+## Details:
 
-     Author :
-                NETHRAN KUMARASAMY
+ Author :
+          NETHRAN KUMARASAMY
+
+Email :  ramanathank18@gmail.com
+
+  
+Twitter : <a target="_blank" href="https://www.twitter.com/@dhanushra/" title = "@dhanushra"><img src = "https://img.shields.io/twitter/url/http/shields.io.svg?style=social">     </a>  
+
 <br>
 
-     EMAIL  :
+## MODULE
 
-                ramanathank18@gmail.com
-<br>
+           lord-shiva 0.2.1
 
-##MODULE
-
-           lord-shiva
-
-
+</p>
